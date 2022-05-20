@@ -1,25 +1,21 @@
 <h1 align="center">Hi 👋, I'm Meshal Hadhrawi</h1>
-<h3 align="center">Computer Scientist and passionate in Data</h3>
+<h3 align="center">Computer Scientist and passionate in Data and Software Devlopment</h3>
 
 - 🔭 I’m currently working on **Graduation project**
 
-- 🌱 I’m currently learning **Python (Numpy & Pandas & Matplotlib)**
+- 🌱 I’m currently learning **Kotlin for Mobile apllication**
 
 - 👯 I’m looking to collaborate on **..**
 
 - 🤝 I’m looking for help with **..**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/alhadhrawi_meshal](https://linktr.ee/alhadhrawi_meshal)
-
-- 📝 I regularly write articles on [..](..)
-
-- 💬 Ask me about **Data visualization, python and SQL**
+- 💬 Ask me about **Data visualization, python,Kotlin, SQL, software development**
 
 - 📫 How to reach me **meshal.b.hadhrawi@gmail.com**
 
-- 📄 Know about my experiences [..](..)
+- 📄 Know about my experiences in **https://www.linkedin.com/in/meshal-hadhrawi-973632194/**
 
-- ⚡ Fun fact **I used to wonder how the computer understood commands when I was young !**
+- ⚡ Fun fact **I used to wonder how the computer understand our actions!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
