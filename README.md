@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Graduation project**
 
-- 🌱 I’m currently learning **Kotlin for Mobile apllication**
+- 🌱 I’m currently learning **Kotlin for developing mobile applications**
 
 - 👯 I’m looking to collaborate on **..**
 
