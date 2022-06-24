@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mshalhadhrawi" alt="mshalhadhrawi" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/mbro_cs" target="blank"><img src="https://img.shields.io/twitter/follow/mbro_cs?logo=twitter&style=for-the-badge" alt="mbro_cs" /></a> </p>
-
 - 🔭 I’m currently working on **Graduation project**
 
-- 🌱 I’m currently learning **Python (Numpy & Pandas & Matplotlib)**
+- 🌱 I’m currently learning **Mobile development**
 
 - 👯 I’m looking to collaborate on **intentionally blank**
 
@@ -19,7 +17,7 @@
 
 - 📝 I regularly write articles on [intentionally blank](intentionally blank)
 
-- 💬 Ask me about **Data visualization, python and SQL**
+- 💬 Ask me about **Data visualization, python and SQL, Mobile development**
 
 - 📫 How to reach me **meshal.b.hadhrawi@gmail.com**
 
@@ -29,7 +27,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mbro_cs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mbro_cs" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/meshal-hadhrawi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/meshal-hadhrawi/" height="30" width="40" /></a>
 </p>
 
